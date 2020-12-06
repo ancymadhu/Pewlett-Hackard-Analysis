@@ -30,4 +30,6 @@ So if the all the 72K eligible employees retire in the next four years at an ave
 
 Looking at the exodus by department, we can see that most retiring people are either Senior Engineeers or Senior Staff.
 
+![3](https://user-images.githubusercontent.com/73450637/101270918-dfb22100-374b-11eb-8ecf-1c635b6c7a73.png)
+
 
